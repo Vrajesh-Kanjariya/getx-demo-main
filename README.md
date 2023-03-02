@@ -1,2 +1,2 @@
-# getx-demo-main
-A getx demo main
+# getx_demo
+ Simple e-Commerece functionality using GetX.
